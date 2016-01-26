@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js","main2.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;ACNA;AACA;AACA;AACA;AACA;AACA;AACA","file":"app.js","sourcesContent":["function plop() {\n    'use strict';\n    console.log('Wooohooo!');\n}\n\n\n","function ploup() {\n    'use strict';\n    console.log('Wahaaa!');\n}\n\n\n"],"sourceRoot":"/source/"}
